@@ -1,7 +1,7 @@
 /* This is your CSS file. You will use this file to style your HTML pages */
 
 body {
-    background-color: peachpuff;
+    background-color: antiquewhite;
     background-size: 100%;}
 
 h1{
@@ -9,3 +9,15 @@ h1{
     font-weight: bold;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+p{color: brown;
+font-family:Georgia, 'Times New Roman', Times, serif;}
+
+h3{color: brown;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+body{background-color: antiquewhite;
+background-size: 100%;}
+
+h1{color:brown;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;}
